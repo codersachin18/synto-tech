@@ -1,0 +1,64 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-abstract",
+      "description": "Abstract purple and blue background for hero section",
+      "imageUrl": "https://images.unsplash.com/photo-1563089145-599997674d42?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxhYnN0cmFjdCUyMHB1cnBsZXxlbnwwfHx8fDE3NjM1MDc5Mzh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "abstract purple"
+    },
+    {
+      "id": "who-we-are-team",
+      "description": "A modern office environment with a team collaborating",
+      "imageUrl": "https://images.unsplash.com/photo-1622675363311-3e1904dc1885?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHx0ZWFtJTIwY29sbGFib3JhdGlvbnxlbnwwfHx8fDE3NjM1MjYzNTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "team collaboration"
+    },
+    {
+      "id": "about-us-banner",
+      "description": "A panoramic view of a modern city skyline at dusk",
+      "imageUrl": "https://images.unsplash.com/photo-1575380591643-b2c92368dc6d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxjaXR5JTIwc2t5bGluZXxlbnwwfHx8fDE3NjM0OTUxMDd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "city skyline"
+    },
+    {
+      "id": "contact-us-map",
+      "description": "A stylized map showing a location",
+      "imageUrl": "https://images.unsplash.com/photo-1717343823307-973d0903d222?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxjaXR5JTIwbWFwfGVufDB8fHx8MTc2MzUyMzIzMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "city map"
+    },
+    {
+      "id": "app-icon-1",
+      "description": "Generic App Icon 1",
+      "imageUrl": "https://images.unsplash.com/photo-1662467150540-e2bba9eecf05?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxhYnN0cmFjdCUyMGxvZ298ZW58MHx8fHwxNzYzNTAwNTQ2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "abstract logo"
+    },
+    {
+      "id": "app-icon-2",
+      "description": "Generic App Icon 2",
+      "imageUrl": "https://images.unsplash.com/photo-1754837369018-ff35655d126f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxnZW9tZXRyaWMlMjBsb2dvfGVufDB8fHx8MTc2MzU3MDE0OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "geometric logo"
+    },
+    {
+      "id": "status-saver-feature",
+      "description": "Screenshot of status saver app feature",
+      "imageUrl": "https://images.unsplash.com/photo-1542641728-6ca359b085f4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxtb2JpbGUlMjBhcHB8ZW58MHx8fHwxNzYzNDc3ODE2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "mobile app"
+    },
+    {
+      "id": "reel-saver-feature",
+      "description": "Screenshot of reel saver app feature",
+      "imageUrl": "https://images.unsplash.com/photo-1573152143286-0c422b4d2175?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxzb2NpYWwlMjBtZWRpYXxlbnwwfHx8fDE3NjM1MDYzMDJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "social media"
+    },
+    {
+      "id": "app-placeholder",
+      "description": "Generic placeholder for an app icon",
+      "imageUrl": "https://images.unsplash.com/photo-1737619285988-e6f0f43a9981?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxhcHAlMjBpY29ufGVufDB8fHx8MTc2MzU2MjkzNnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "app icon"
+    },
+    {
+      "id": "404-image",
+      "description": "A lost robot in a digital landscape",
+      "imageUrl": "https://images.unsplash.com/photo-1698425735772-7f10d3c9cf61?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxsb3N0JTIwcm9ib3R8ZW58MHx8fHwxNzYzNTMyMzg4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "lost robot"
+    }
+  ]
+}
